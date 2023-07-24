@@ -27,6 +27,7 @@ Using ShaziRT is as easy as waving a magic wand! Just follow these steps:
 3. Run the special commands (don't worry, ShaziRT knows them all!):
    - `npm run dev`
    - To create a new part of your website, use the magic command: 
+   
   | Command                          | Description                                                        |
 |----------------------------------|--------------------------------------------------------------------|
 | `npm run create-new-component`   | Create a new part of your website using magic!                     |
