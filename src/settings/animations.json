@@ -1,0 +1,156 @@
+{
+    "startup": {
+        "opacity": [0, 1]
+    },
+    "show-hide": {
+        "opacity": [0, 1, 0]
+    },
+    "popup": {
+        "opacity": [0.5, 1],
+        "scale": [0.5, 1]
+    },
+    "slidein": {
+        "x": [-100, 0],
+        "opacity": [0.5, 1]
+    },
+    "slideout": {
+        "x": [0, -100],
+        "opacity": [1, 0]
+    },
+    "wiggle": {
+        "rotate": [-10, 10, -10, 10, 0]
+    },
+    "spin": {
+        "rotate": [0, 360]
+    },
+    "shake": {
+        "x": [-10, 10, -10, 10, 0],
+        "y": [-10, 10, -10, 10, 0]
+    },
+    "pulse": {
+        "scale": [1, 1.2, 1]
+    },
+    "bounce": {
+        "y": [0, -30, 0]
+    },
+    "fadeslidein": {
+        "opacity": [0.5, 1],
+        "y": [-50, 0]
+    },
+    "fadeslideout": {
+        "opacity": [1, 0],
+        "y": [0, -50]
+    },
+    "zoom-in": {
+        "scale": [0, 1]
+    },
+    "zoom-out": {
+        "scale": [1, 0]
+    },
+    "stagger": {
+        "opacity": [0.5, 1],
+        "transition": {
+            "duration": 0.5,
+            "delay": 0.1
+        }
+    },
+    "flip-x": {
+        "rotateX": [0, 360]
+    },
+    "flip-y": {
+        "rotateY": [0, 360]
+    },
+    "flip-both": {
+        "rotateX": [0, 360],
+        "rotateY": [0, 360]
+    },
+    "slideright": {
+        "x": [-100, 0]
+    },
+    "slideleft": {
+        "x": [100, 0]
+    },
+    "slideup": {
+        "y": [100, 0]
+    },
+    "slidedown": {
+        "y": [-100, 0]
+    },
+    "staggered-slidein": {
+        "x": [-100, 0],
+        "opacity": [0.5, 1],
+        "transition": {
+            "duration": 0.3,
+            "delay": 0.1
+        }
+    },
+    "staggered-slideout": {
+        "x": [0, -100],
+        "opacity": [1, 0],
+        "transition": {
+            "duration": 0.3,
+            "delay": 0.1
+        }
+    },
+    "skew-x": {
+        "skewX": [-20, 20, -20, 0]
+    },
+    "skew-y": {
+        "skewY": [-20, 20, -20, 0]
+    },
+    
+    
+    "blurin": {
+        "filter": ["blur(10px)", "blur(0px)"]
+    },
+    "blurout": {
+        "filter": ["blur(0px)", "blur(10px)"]
+    },
+    "pop-and-jump": {
+        "scale": [1, 1.2, 1],
+        "y": [0, -50, 0]
+    },
+    "zigzag": {
+        "x": [-50, 50, -50, 50, 0],
+        "y": [0, -50, 0, -50, 0]
+    },
+    "swing": {
+        "rotate": [0, 15, -10, 5, -5, 0]
+    },
+    "fall": {
+        "y": [-100, 0],
+        "rotate": [0, 360]
+    },
+    "blink": {
+        "opacity": [1, 0, 1]
+    },
+    "clockwiserotate": {
+        "rotate": [0, 360],
+        "originX": ["0%", "50%"],
+        "originY": ["0%", "50%"]
+    },
+    "counterclockwiserotate": {
+        "rotate": [0, -360],
+        "originX": ["0%", "50%"],
+        "originY": ["0%", "50%"]
+    },
+    "scrollleft": {
+        "x": [0, -100],
+        "opacity": [1, 0]
+    },
+    "scrollright": {
+        "x": [0, 100],
+        "opacity": [1, 0]
+    },
+    "scrollup": {
+        "y": [0, -100],
+        "opacity": [1, 0]
+    },
+    "scrolldown": {
+        "y": [0, 100],
+        "opacity": [1, 0]
+    },
+    "random-jitter": {
+        "x": [-5, 5, -3, 3, -1, 1, 0]
+    }
+}

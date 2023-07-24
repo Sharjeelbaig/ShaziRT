@@ -1,0 +1,162 @@
+{
+    "startup": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "show-hide": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "popup": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slidein": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slideout": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "wiggle": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "spin": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "shake": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "pulse": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "bounce": {
+        "duration": 0.6,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "fadeslidein": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "fadeslideout": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "zoom-in": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "zoom-out": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "stagger": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "flip-x": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "flip-y": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "flip-both": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slideright": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slideleft": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slideup": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "slidedown": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "staggered-slidein": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "staggered-slideout": {
+        "duration": 0.3,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "skew-x": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "skew-y": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "blurin": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "blurout": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "pop-and-jump": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "zigzag": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "swing": {
+        "duration": 0.6,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "fall": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "blink": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "clockwiserotate": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "counterclockwiserotate": {
+        "duration": 0.8,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "scrollleft": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "scrollright": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "scrollup": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "scrolldown": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    },
+    "random-jitter": {
+        "duration": 0.5,
+        "ease": [0.42, 0, 0.58, 1]
+    }
+}
