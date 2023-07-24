@@ -1,5 +1,6 @@
 # ShaziRT - Magic React Template for Frontend Fun! 🪄✨
 
+![banner](https://firebasestorage.googleapis.com/v0/b/shazi-cloud.appspot.com/o/shaziRT-banner.png?alt=media&token=451600b0-c2d1-47d9-9a8a-414987a725e3)
 Welcome to the Shazi React Templete - Magic React Template! 🎉
 
 ## What is ShaziRT?
