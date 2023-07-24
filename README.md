@@ -27,19 +27,19 @@ Using ShaziRT is as easy as waving a magic wand! Just follow these steps:
 3. Run the special commands (don't worry, ShaziRT knows them all!):
    - `npm run dev`
    - To create a new part of your website, use the magic command: 
-   
+
   | Command                          | Description                                                        |
 |----------------------------------|--------------------------------------------------------------------|
-| `npm run create-new-component`   | Create a new part of your website using magic!                     |
-| `npm run delete-component`       | Remove something from your website with a spell!                   |
-| `npm run create-new-reducer`     | Add new animations to your website with a special incantation!     |
-| `npm run delete-reducer`         | Remove animations you no longer need with a magical gesture!       |
-| `npm run create-new-route`       | Create a new path for your website's journey using mystical words! |
-| `npm run delete-route`           | Remove paths that are no longer needed with a flick of the wand!   |
-| `npm run delete-action-type`     | Eliminate action types with a powerful enchantment!                |
+| `npm run create-new-component`   | Create a new component of your webapp using magic!                     |
+| `npm run delete-component`       | Remove component from your webapp with a spell!                   |
+| `npm run create-new-reducer`     | Add new reducer to your webapp with a special incantation!     |
+| `npm run delete-reducer`         | Remove reducer you no longer need with a magical gesture!       |
+| `npm run create-new-route`       | Create a new route/page for your webapp's journey using mystical words! |
+| `npm run delete-route`           | Remove route/page that are no longer needed with a flick of the wand!   |
+| `npm run delete-action-type`     | Eliminate action types from actionTypes.ts with a powerful enchantment!                |
 
 
-4. Create your own magic! 🧙‍♂️ Add your content, images, and make your website unique and special.
+4. Create your own magic! 🧙‍♂️ Add your content, images, and make your webapp unique and special.
 
 ## Let's have fun!
 
